@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mate+SC&display=swap');
+
+body{
+	background-color: #222;
+	font-family: 'Mate SC', serif;
+	font-weight: bold;
+	font-size: 16px;
+	color: #f5f5f5;
+
+}
+.btn{
+	font-family: 'Mate SC', serif;
+}
+.titleI, .subtitleI{
+	color: #f5f5f5;
+	font-family: 'Shadows Into Light', cursive;
+}
+.tarefas, .playlist, .links, .jogos, .treinador, .funcionalidades, .msg, .input-func, .voltar{
+	border-radius: 10px;
+	background-color: #1a1919;
+}
+.fixed-right{
+	display: sticky;
+}
+img{
+	border-radius: 200px;
+}
+.lateral-direita{
+	border-radius: 10px;
+	background-color: #1a1919;
+}
+th{
+	border-bottom-style: solid;
+	border-bottom-color: #000;
+}
+td{
+	border-bottom-style: solid;
+	border-bottom-color: #111;
+}
+.proposta{
+	color: #d50000 ;
+}
+.desenvolvimento{
+	color: #fb8c00 
+}
+.finalizada{
+	color: #00e676;
+}
+.excluir{
+	color: red;
+}
+.container-2{
+	width: 90%;
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.btn-margin-top{
+	margin-top: 10%;	
+}
+.voltar{
+	text-align: center;
+}
+.meio{
+	margin-left: 45%;
+	margin-top: 20%;
+}
+.login-margin-top{
+	margin-top: 20%;
+}
+.cadastrar-margin-top{
+	margin-top: 15%;
+}
+.bar-red{
+	background-color: #f44336;
+}
+.bar-orange{
+	background-color: #ff9800;
+}
+.bar-green{
+	background-color: #76ff03;
+}
+.bar-blue{
+	background-color: #01579b;
+}
+.lista{
+	color: #01579b;
+	font-size: 14px;	
+}

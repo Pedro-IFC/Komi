@@ -1,0 +1,6 @@
+1-Lógica de programação é o passo a passo para resolver um problema, logo sempre que começarmos um software, 
+faça o passo a passo a mão
+
+Trabalho de Conclusão de Curso apresentado ao Curso Técnico de Informática do Instituto Federal de Educação Ciência e Tecnologia Catarinense – Câmpus Rio do Sul para obtenção do título de licenciado em técnico em informática
+Orientador(a):Paula Fabiane Martins, Dr.
+Co-orientador(a) Cristhian Heck, MSc.

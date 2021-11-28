@@ -1,0 +1,2 @@
+com.epicgames.launcher://apps/8935bb3e1420443a9789fe01758039a5?action=launch&silent=true - Alien Isolation
+http://localhost/Donate%20a%20life3/public/index.php - Donate a Life
